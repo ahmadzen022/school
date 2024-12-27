@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col-12 text-center">
             <h2>Layanan Kami</h2>
-            <span class="sub-title">Rumah Impian hadir untuk menjadi solusi bagi kamu</span>
+            <span class="sub-title">SMKN4 TASIKMALAYA</span>
           </div>
         </div>
 
